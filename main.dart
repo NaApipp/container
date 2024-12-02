@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Aplikasi Flexible Layout Haidar mazaya"),
+          title: Text("Aplikasi Flexible Layout SuperApps"),
         ),
         body: Column(
           children: <Widget>[
@@ -58,7 +58,7 @@ class MyApp extends StatelessWidget {
                   color: const Color.fromARGB(255, 243, 26, 6),
                   child: ListTile(
                     title: Text(
-                      "HAIDAR MAZAYA ARFRINO KELAS XI RPL 3 ABSEN 13",
+                      "NABIL ARIF KELAS XI RPL 3 ABSEN 20",
                       style: TextStyle(
                           color: Colors.white, fontWeight: FontWeight.bold),
                     ),
@@ -71,7 +71,7 @@ class MyApp extends StatelessWidget {
                   color: const Color.fromARGB(255, 16, 82, 223),
                   child: ListTile(
                     title: Text(
-                      "Halooooooooo",
+                      "PHEEEEE",
                       style: TextStyle(
                           color: const Color.fromARGB(251, 238, 233, 233),
                           fontWeight: FontWeight.bold),
